@@ -1,5 +1,6 @@
-# ClassProject
-Collaboration tool - Sample project for GitHub exercise - 
+# Tutorial - 3
+Introduction to the Collaboration tools - Sample project for GitHub exercise - 
+
 This is a sample project repository for the GitHub exercise in our collaboration tools tutorial. Each student will clone this repository, create a branch, add their introduction below, and answer the following question: *What is your favorite programming language and why?*
 
 ## Student Introductions
